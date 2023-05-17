@@ -10,10 +10,10 @@
 
 ## Bugs I have found
 
-- * As soon as I ran the application, this warning showed up on console's browser: *
+- As soon as I ran the application, this warning showed up on console's browser:
 
 next-dev.js:60 Warning: Prop `className` did not match. Server: "sc-hHLeRK ipTiih" Client: "sc-bczRLJ gYfIVm"
 
-- * When I deleted a post, this warning showed up: *
+- When I deleted a post, this warning showed up: 
 
 next-dev.js:60 Warning: Can't perform a React state update on an unmounted component. This is a no-op, but it indicates a memory leak in your application. To fix, cancel all subscriptions and asynchronous tasks in a useEffect cleanup function.
