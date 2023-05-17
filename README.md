@@ -10,6 +10,9 @@ It's possible for the user to create, post, edit and delete posts.
 
 # Install and run the project
 1. Clone this project:
+```
+git clone git@github.com:leticiaschaves/codeleap-test.git
+```
 
 2. Install its dependencies:
 ```
